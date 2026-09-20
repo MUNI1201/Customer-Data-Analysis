@@ -28,5 +28,4 @@ Customer shopping dataset with details such as gender, age, category, quantity, 
 
 ## Files
 - `customer analytics.sql`: MySQL queries
-- `dashboard.pbix`: Power BI dashboard
 - `screenshots/`: dashboard images
