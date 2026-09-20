@@ -27,6 +27,6 @@ Customer shopping dataset with details such as gender, age, category, quantity, 
 - Clothing has many peaks in the year. Technology and Shoes rise together from June to September. Toys rise in the last two quarters.
 
 ## Files
-- `https://github.com/MUNI1201/Customer-Data-Analysis/blob/0c6ee21a7483580024dd6cf495366a31f2e0a7f8/customer%20analytics.sql`: MySQL queries
+- `ca.sql`: MySQL queries
 - `dashboard.pbix`: Power BI dashboard
 - `screenshots/`: dashboard images
