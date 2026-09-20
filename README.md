@@ -28,4 +28,4 @@ Customer shopping dataset with details such as gender, age, category, quantity, 
 
 ## Files
 - `customer analytics.sql`: MySQL queries
-- `screenshots/`: dashboard images
+- `Dashboard Screenshots/`: dashboard images
